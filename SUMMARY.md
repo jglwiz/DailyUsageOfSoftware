@@ -2,3 +2,4 @@
 
 * [前言](README.md)
 * [VSCode](vscode.md)
+* [Wechat](wechat.md)
