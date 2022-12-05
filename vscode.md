@@ -127,5 +127,5 @@ NVDA 读屏软件对系统资源消耗比较大，在和 VSCode 配合的过程�
 # 如何查找文章的最新版本?
 
 本系列的文章，是根据个人的使用经验撰写，文章的信息，会根据自己的经验不断更新。
-最新的版本在此： [文章链接](https:// NVDA -users.gitbook.io/daily_usage/)
+最新的版本在此： [文章链接](https://nvda-users.gitbook.io/daily_usage/)
 
